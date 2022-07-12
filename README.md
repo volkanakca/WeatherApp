@@ -1,2 +1,2 @@
-# HavaDurumuApp
- HavaDurumuJson
+# WeatherApp
+ WeatherJson
